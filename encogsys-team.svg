@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 720" fill="none">
+<rect width="1000" height="720" rx="44" fill="#F3EFDF"/>
+<rect x="52" y="52" width="896" height="616" rx="34" fill="#171714"/>
+<circle cx="805" cy="150" r="155" fill="#FFC400" opacity=".95"/>
+<circle cx="805" cy="150" r="112" stroke="#11110F" stroke-opacity=".22"/>
+<path d="M105 530c90-110 190-158 300-158 115 0 215 48 300 158" stroke="#FFC400" stroke-width="3" opacity=".35"/>
+<g>
+<circle cx="285" cy="290" r="56" fill="#D8A97F"/><path d="M230 289c2-55 30-82 58-82 37 0 61 27 64 83-29-18-71-20-122-1Z" fill="#11110F"/>
+<path d="M184 548c13-126 49-189 101-189 55 0 91 63 104 189" fill="#FFC400"/><path d="M220 415h130v115H220z" fill="#F7F5EE" opacity=".2"/>
+</g>
+<g>
+<circle cx="500" cy="245" r="62" fill="#B9825D"/><path d="M437 244c0-62 29-94 64-94 43 0 69 35 69 94-38-19-80-20-133 0Z" fill="#22221E"/>
+<path d="M396 548c8-143 47-209 105-209 61 0 100 66 108 209" fill="#F7F5EE"/><path d="M423 374c48 24 102 24 155 0l25 174H396l27-174Z" fill="#FFC400" opacity=".95"/>
+</g>
+<g>
+<circle cx="705" cy="310" r="52" fill="#D2A174"/><path d="M653 308c0-53 26-80 54-80 35 0 57 28 58 81-35-17-72-17-112-1Z" fill="#11110F"/>
+<path d="M612 548c10-115 43-170 93-170 50 0 82 55 92 170" fill="#FFC400"/><path d="M641 395h128v118H641z" fill="#F7F5EE" opacity=".18"/>
+</g>
+<rect x="90" y="95" width="300" height="74" rx="20" fill="#24241F" stroke="#414139"/>
+<text x="116" y="125" font-family="Arial,sans-serif" font-size="11" font-weight="900" fill="#FFC400">DELIVERY NETWORK</text>
+<text x="116" y="153" font-family="Arial,sans-serif" font-size="21" font-weight="800" fill="white">ONE TEAM. MANY MARKETS.</text>
+</svg>
